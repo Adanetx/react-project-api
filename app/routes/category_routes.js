@@ -97,7 +97,7 @@ router.patch('/categories/:id', requireToken, removeBlanks, (req, res, next) => 
 
 // DESTROY
 // DELETE /examples/5a7db6c74d55bc51bdf39793
-router.delete('/category/:id', requireToken, (req, res, next) => {
+router.delete('/categories/:id', requireToken, (req, res, next) => {
   Category.findById(req.params.id)
     .then(handle404)
     .then(category => {
