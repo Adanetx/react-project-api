@@ -9,9 +9,9 @@ Entity Relationship Diagrams, along with wireframes, allowed us to get a better 
 
 ## Important Links
 
-- [Deployed Client](https://reactions2code.github.io/react-project-client/)
-- [Client Repo](https://github.com/reactions2code/react-project-client)
-- [Deployed API](https://git.heroku.com/salty-cove-83012.git)
+- [Deployed Client](https://adanetx.github.io/react-project-client/)
+- [Client Repo](https://github.com/Adanetx/react-project-client)
+- [Deployed API](https://git.heroku.com/obscure-depths-42422.git)
 
 
 ### User Stories
@@ -28,6 +28,10 @@ Entity Relationship Diagrams, along with wireframes, allowed us to get a better 
 - As a signed in user, I would like to comment on other users' posts on the message board.
 - As a signed in user, I would like to edit my comment on other users' posts on the message board.
 - As a signed in user, I would like to delete my comment on other users' posts on the message board.
+- as a user I must able to add new category
+- as a user I must see user's posted categories
+- as a user I must delete my own resource
+- as a user I must able to update my own resource
 
 ### Strech Goal(s)
 
