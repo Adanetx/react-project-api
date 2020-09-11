@@ -12,6 +12,7 @@ Entity Relationship Diagrams, along with wireframes, allowed us to get a better 
 - [Deployed Client](https://adanetx.github.io/react-project-client/)
 - [Client Repo](https://github.com/Adanetx/react-project-client)
 - [Deployed API](https://git.heroku.com/obscure-depths-42422.git)
+- [API Repo](https://github.com/Adanetx/react-project-api)
 
 
 ### User Stories
