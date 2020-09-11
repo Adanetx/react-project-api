@@ -39,6 +39,7 @@ Entity Relationship Diagrams, along with wireframes, allowed us to get a better 
 - Allow users to comment on comments.
 - Allow users to create categories or topics and add posts to specific category or topic message boards
 - Allow users to add tags to a post
+- create another resource
 
 ### Technologies Used
 
@@ -61,6 +62,18 @@ Entity Relationship Diagrams, along with wireframes, allowed us to get a better 
 | POST     | `/posts`           |
 | PATCH    | `/posts/:id`       |
 | DELETE  | `/posts/:id`        |
+
+
+### Catalog of Routes for category
+
+Verb   | URI Pattern            |
+|--------|------------------------|
+|   |   |
+| GET      | `/categories`        |
+| GET      | `/category/:id`|
+| POST     | `/categories`|
+| PATCH    | `/categories/:id`|
+| DELETE  | `/categories/:id`|
 
 
 
